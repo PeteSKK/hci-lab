@@ -1,13 +1,3 @@
-layout: single
-title: Button
-header: no
-categories:
-  - definition
-  - easy
-tags:
-  - button
-  - HCI
-
 Ονοματεπώνημο: Λέφτσης Πέτρος
  ΑΜ Π2019196
 
@@ -32,6 +22,17 @@ __1o Παραδοτέο__
 __2o Παραδοτέο__
 
 Το κουμπί:
+---
+layout: single
+title: Button
+header: no
+categories:
+  - definition
+  - easy
+tags:
+  - button
+  - HCI
+---
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="PeteSK" data-slug-hash="mdEEJKQ" data-preview="true" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button Summon Majima">
   <span>See the Pen <a href="https://codepen.io/PeteSK/pen/mdEEJKQ">
   Button Summon Majima</a> by PeteSK (<a href="https://codepen.io/PeteSK">@PeteSK</a>)
