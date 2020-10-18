@@ -1,5 +1,5 @@
 Ονοματεπώνημο: Λέφτσης Πέτρος
- ΑΜ Π2019196
+ΑΜ Π2019196
 
 Εβδομάδα* | Παραδοτέο |
 1 |         Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της    
@@ -16,10 +16,10 @@
 11 |        αίτημα ενσωμάτωσης (CSCW, IV) |
 12 |        Τελική αναφορά* |
 
-#_1o Παραδοτέο_
+__1o Παραδοτέο__
 Εισαγωγή:
 
-#_2o Παραδοτέο_
+__2o Παραδοτέο__
 
 Το κουμπί:
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="PeteSK" data-slug-hash="mdEEJKQ" data-preview="true" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button Summon Majima">
