@@ -30,7 +30,12 @@
 Το κουμπί:
 https://github.com/PeteSKK/site/blob/master/_remix/button.md
 
-#__4o Παραδοτέο__
+# __3ο Παραδοτέο__
+
+Setting-up the main dependencies and demonstrating my base system:
+https://asciinema.org/a/uH1RYzKpKoNfJSUBRCOATeYdF
+
+# __4o Παραδοτέο__
 
 Image filter:
 https://github.com/PeteSKK/site/blob/master/_remix/image-filter.md
