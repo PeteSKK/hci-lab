@@ -28,14 +28,27 @@
 # __2o Παραδοτέο__
 
 Το κουμπί:
+Σε αυτό δυσκολεύτηκα αρκετά επειδή ήταν η πρώτη φορά που εγώ προσωπικά ασχολήθηκα με html. Όμως με λίγο ψάξιμο, κατάφερα και έμαθα για το πως να κάνω ένα κουμπί να κάνει redirect προς ένα link της επιλογής μου.
+
 https://github.com/PeteSKK/site/blob/master/_remix/button.md
 
 # __3ο Παραδοτέο__
 
 Setting-up the main dependencies and demonstrating my base system:
+Παρομοίος με το δεύτερο παραδοτέο, επειδή δεν ήξερα πως να χρησιμοποιήσω το terminal του linux, δυσκολεύτηκα αλλα και αυτό με λίγο ψάξιμο, τα κατάφερα.
+
 https://asciinema.org/a/uH1RYzKpKoNfJSUBRCOATeYdF
 
 # __4o Παραδοτέο__
 
 Image filter:
+Αυτό ήταν πολύ απλό. Χρειαζόταν μόνο να ψάξω πως να βάλω πολλά filters σε μία εικόνα. Έπειτα απλώς πειραματήστηκα με όλα τα φίλτερς και επέλεξα ποιά να αφήσω.
+
 https://github.com/PeteSKK/site/blob/master/_remix/image-filter.md
+
+# __6ο Παραδοτέο__
+
+Image zoom:
+Με την εμπειρία μου απο το 4ο παραδοτέο, αυτή δεν χρειάστηκε καν ψάξιμο. Ήμουν ικανοποιημένος επειδή με έκανε να νιώσω οτι τουλάχιστον κάποια πράγματα για την html άρχισα να τα καταλαβαίνω.
+
+https://github.com/PeteSKK/site/blob/master/_remix/image-zoom.md
