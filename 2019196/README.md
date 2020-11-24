@@ -32,6 +32,10 @@
 
 https://github.com/PeteSKK/site/blob/master/_remix/button.md
 
+ See the Pen Button Summon Majima by PeteSK (@PeteSK) on CodePen.
+
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>1
+
 # __3ο Παραδοτέο__
 
 Setting-up the main dependencies and demonstrating my base system:
@@ -46,9 +50,17 @@ Image filter:
 
 https://github.com/PeteSKK/site/blob/master/_remix/image-filter.md
 
+ See the Pen image filter 100000000 by P2019196 (@PeteSK) on CodePen.
+
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 # __7ο Παραδοτέο__
 
 Image zoom:
 Με την εμπειρία μου απο το 4ο παραδοτέο, αυτή δεν χρειάστηκε καν ψάξιμο. Ήμουν ικανοποιημένος επειδή με έκανε να νιώσω οτι τουλάχιστον κάποια πράγματα για την html άρχισα να τα καταλαβαίνω.
 
 https://github.com/PeteSKK/site/blob/master/_remix/image-zoom.md
+
+ See the Pen Background Image zoom - ASCEND THE CAT by P2019196 (@PeteSK) on CodePen.
+
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
