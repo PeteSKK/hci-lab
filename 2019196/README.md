@@ -64,3 +64,17 @@ https://github.com/PeteSKK/site/blob/master/_remix/image-zoom.md
  See the Pen Background Image zoom - ASCEND THE CAT by P2019196 (@PeteSK) on CodePen.
 
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+# __8ο Παραδοτέο__
+
+Sortable list:
+Έπρεπε λιγο να ψάξω γι'αυτό, αλλά θα παραδεχτώ οτι και αυτό δεν με δυσκόλεψε. Τώρα που τελείωσα με HTML θα προσπαθήσω να τα δώσω όλα για να καταλάβω επιτέλους τις εντολές γραμμών εντολών.
+
+https://github.com/PeteSKK/site/blob/master/_remix/sortable-list.md
+
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="PeteSK" data-slug-hash="dypXaax" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Pibook Sortable but red">
+  <span>See the Pen <a href="https://codepen.io/PeteSK/pen/dypXaax">
+  Pibook Sortable but red</a> by P2019196 (<a href="https://codepen.io/PeteSK">@PeteSK</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
