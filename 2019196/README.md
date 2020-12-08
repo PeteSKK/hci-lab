@@ -32,9 +32,13 @@
 
 https://github.com/PeteSKK/site/blob/master/_remix/button.md
 
- See the Pen Button Summon Majima by PeteSK (@PeteSK) on CodePen.
-
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="PeteSK" data-slug-hash="mdEEJKQ" data-preview="true" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button Summon Majima">
+  <span>See the Pen <a href="https://codepen.io/PeteSK/pen/mdEEJKQ">
+  Button Summon Majima</a> by PeteSK (<a href="https://codepen.io/PeteSK">@PeteSK</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>1
+
 
 # __3ο Παραδοτέο__
 
@@ -50,8 +54,11 @@ Image filter:
 
 https://github.com/PeteSKK/site/blob/master/_remix/image-filter.md
 
- See the Pen image filter 100000000 by P2019196 (@PeteSK) on CodePen.
-
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="PeteSK" data-slug-hash="qBNNbqE" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="image filter 100000000">
+  <span>See the Pen <a href="https://codepen.io/PeteSK/pen/qBNNbqE">
+  image filter 100000000</a> by P2019196 (<a href="https://codepen.io/PeteSK">@PeteSK</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 # __7ο Παραδοτέο__
@@ -61,8 +68,11 @@ Image zoom:
 
 https://github.com/PeteSKK/site/blob/master/_remix/image-zoom.md
 
- See the Pen Background Image zoom - ASCEND THE CAT by P2019196 (@PeteSK) on CodePen.
-
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="PeteSK" data-slug-hash="PozzZOJ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Background Image zoom - ASCEND THE CAT">
+  <span>See the Pen <a href="https://codepen.io/PeteSK/pen/PozzZOJ">
+  Background Image zoom - ASCEND THE CAT</a> by P2019196 (<a href="https://codepen.io/PeteSK">@PeteSK</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 # __9ο Παραδοτέο__
