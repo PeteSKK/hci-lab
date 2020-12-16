@@ -61,6 +61,12 @@ https://github.com/PeteSKK/site/blob/master/_remix/image-filter.md
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
+# __5ο Παραδοτέο__
+
+Searching, downloading and playing my favourite song from youtube:
+
+https://asciinema.org/a/378281
+
 # __7ο Παραδοτέο__
 
 Image zoom:
