@@ -13,9 +13,9 @@
 | 5 | [Άσκηση γραμμής εντολών](#5ο-παραδοτέο) |
 | 6 | [συμμετοχικό περιεχόμενο](#6ο-παραδοτέο) |
 | 7 | [Άσκηση προγραμματισμού](#7ο-παραδοτέο) |
-| 8 | Άσκηση γραμμής εντολών |
+| 8 | [Άσκηση γραμμής εντολών](#8ο-παραδοτέο) |
 | 9 | [Άσκηση προγραμματισμού](#9ο-παραδοτέο) |
-| 10 | Άσκηση γραμμής εντολών |
+| 10 | [Άσκηση γραμμής εντολών](#10ο-παραδοτέο) |
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
@@ -39,6 +39,8 @@ https://github.com/PeteSKK/site/blob/master/_remix/button.md
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>1
 
+https://dazzling-saha-fdafc5.netlify.app/remix/button/
+
 
 # __3ο Παραδοτέο__
 
@@ -61,9 +63,13 @@ https://github.com/PeteSKK/site/blob/master/_remix/image-filter.md
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
+https://dazzling-saha-fdafc5.netlify.app/remix/image-filter/
+
 # __5ο Παραδοτέο__
 
 Searching, downloading and playing my favourite song from youtube:
+
+Μου πήρε κυριολεκτικά εβδομάδες. Μάζι με τα άλλα μαθήματα, έπρεπε να εξασκώ και να καταλάβω πως να δουλεύω γραμμές εντολών, και να κάνω προχωρημένα πράγματα σαν αυτήν την άσκηση. Στο τέλος όμως τα κατάφερα και νιώθω οτι έχω ένα ακόμα εργαλείο που μπορώ να χρεισιμοποιήσω.
 
 https://asciinema.org/a/378281
 
@@ -81,6 +87,8 @@ https://github.com/PeteSKK/site/blob/master/_remix/image-zoom.md
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
+https://dazzling-saha-fdafc5.netlify.app/remix/image-zoom/
+
 # __9ο Παραδοτέο__
 
 Sortable list:
@@ -94,3 +102,13 @@ https://github.com/PeteSKK/site/blob/master/_remix/sortable-list.md
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+https://dazzling-saha-fdafc5.netlify.app/remix/sortable-list/
+
+# __10ο Παραδοτέο__
+
+Keeping and organizing my notes with org mode:
+
+Εδώ είναι που νιώθω οτι αρχίζω να αποκτώ άνεση με τις εντολές γραμμών εντολών. Μου πήρε πάλι αρκετή ώρα, έπρεπε να μάθω και να καταλάβω πως να χρεισιμοποιώ το emacs και το org mode, αλλά στο τέλος τα κατάφερα και κατάλαβα την χρησιμότητα τους.
+
+https://asciinema.org/a/378281
