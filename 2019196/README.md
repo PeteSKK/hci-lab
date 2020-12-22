@@ -73,6 +73,20 @@ Searching, downloading and playing my favourite song from youtube:
 
 https://asciinema.org/a/378281
 
+# __6ο Παραδοτέο__
+
+Απο τα θέματα που μπορούσα να επιλέξω, προτίμησα να εμβαθύνω την "Εκπαιδευτική Τεχνολογία"
+
+Unimat 1: 
+https://github.com/PeteSKK/images/blob/master/unimat-1.JPG
+https://github.com/PeteSKK/images/blob/master/unimat-1-thumb.JPG
+https://github.com/PeteSKK/_gallery/blob/master/unimat-1.md
+
+Us Army technology:
+https://github.com/PeteSKK/images/blob/master/us-army-technology-thumb.jpg
+https://github.com/PeteSKK/images/blob/master/us-army-technology.jpg
+https://github.com/PeteSKK/_gallery/blob/master/us-army-techonology.md
+
 # __7ο Παραδοτέο__
 
 Image zoom:
