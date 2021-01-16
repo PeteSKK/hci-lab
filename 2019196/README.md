@@ -103,6 +103,13 @@ https://github.com/PeteSKK/site/blob/master/_remix/image-zoom.md
 
 https://dazzling-saha-fdafc5.netlify.app/remix/image-zoom/
 
+# __8o παραδοτέο__
+
+create your own static site and blog generator with pandoc: 
+Για την τελευταία άσκηση γραμμών εντολών, αποφάσησα να κάνω κάτι πιο δύσκολο, ένας απο τους λόγους που άργησα να την παραδώσω. Χρειάστηκα να ψαξω αρκετά για αυτό εργαλείο, αλλά κατάφερα να το κάνω σχετικά γρήγορα!
+
+https://asciinema.org/a/fETZ3cjKUmnxwb0bMJoVTawb2
+
 # __9ο Παραδοτέο__
 
 Sortable list:
