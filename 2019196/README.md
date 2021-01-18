@@ -139,13 +139,19 @@ https://asciinema.org/a/379607
 Για αυτό το συμμετοχικό περιεχόμενο αποφάσισα να γράψω την βιογραφεία του Mitchel Resnick και να κάνω μελέτη περίπτωσης του Lego Mindstorms.
 
 Mitchel Resnick:
+
 https://en.wikipedia.org/wiki/Mitchel_Resnick
+
 https://www.media.mit.edu/people/mres/overview/
+
 https://web.media.mit.edu/~mres/
 
 Lego Mindstorms:
+
 https://en.wikipedia.org/wiki/Lego_Mindstorms
+
 https://daedalosacademy.com/lego-robotics-1-mindstorm-education-grades-4-8/
+
 https://gettinggiggles.wordpress.com/2013/10/30/make-lego-mindstorms-robotics/
 
 # __Σύνοψη και συμπεράσματα__
